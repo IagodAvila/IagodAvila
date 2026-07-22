@@ -8,6 +8,8 @@
   <a href="https://github.com/IagodAvila?tab=repositories">Projects</a>
   ·
   <a href="https://github.com/IagodAvila/Portfolio">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/iago-d-avila-851399332/">LinkedIn</a>
 </p>
 
 ---
@@ -47,6 +49,7 @@ A responsive landscaping website built with HTML and CSS, focused on clear conte
 #### [Apple iPhone 17 Website](https://github.com/IagodAvila/Site-Apple-iPhone-17)
 
 A product-page-inspired interface built with JavaScript and close attention to visual presentation.
+
 ---
 
 <p align="center">
