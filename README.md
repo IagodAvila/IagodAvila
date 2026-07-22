@@ -32,10 +32,6 @@
 
 ### Featured projects
 
-#### [Apple iPhone 17 Website](https://github.com/IagodAvila/Site-Apple-iPhone-17)
-
-A product-page-inspired interface built with JavaScript and close attention to visual presentation.
-
 #### [Portfolio](https://github.com/IagodAvila/Portfolio)
 
 A collection of my profile and web development work.
@@ -44,6 +40,13 @@ A collection of my profile and web development work.
 
 A corporate website created to practice content structure and web interface development.
 
+#### [Jardinar Website](https://github.com/IagodAvila/site-jardinar)
+
+A responsive landscaping website built with HTML and CSS, focused on clear content structure and visual presentation.
+
+#### [Apple iPhone 17 Website](https://github.com/IagodAvila/Site-Apple-iPhone-17)
+
+A product-page-inspired interface built with JavaScript and close attention to visual presentation.
 ---
 
 <p align="center">
