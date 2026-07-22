@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/IagodAvila?tab=repositories">Projects</a>
   ·
-  <a href="https://github.com/IagodAvila/Portfolio">Portfolio</a>
+  <a href="https://iagodavila.github.io/Portfolio/">Portfolio</a>
   ·
   <a href="https://www.linkedin.com/in/iago-d-avila-851399332/">LinkedIn</a>
 </p>
