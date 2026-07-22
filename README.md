@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Iago d'Avila 👋</h1>
 
-<!--
-**IagodAvila/IagodAvila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Front-end Developer focused on building responsive, functional, and user-friendly interfaces.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/IagodAvila?tab=repositories">Projects</a>
+  ·
+  <a href="https://github.com/IagodAvila/Portfolio">Portfolio</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About me
+
+- 💻 I build web projects with HTML, CSS, and JavaScript.
+- ⚛️ I am currently improving my React and Vite skills.
+- 📱 I am interested in responsive interfaces and well-crafted user experiences.
+- 🚀 I see every project as an opportunity to learn, test ideas, and improve my code.
+
+### Tech stack
+
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+</p>
+
+### Featured projects
+
+#### [Apple iPhone 17 Website](https://github.com/IagodAvila/Site-Apple-iPhone-17)
+
+A product-page-inspired interface built with JavaScript and close attention to visual presentation.
+
+#### [Portfolio](https://github.com/IagodAvila/Portfolio)
+
+A collection of my profile and web development work.
+
+#### [Scherr Química Website](https://github.com/IagodAvila/site-scherr-quimica)
+
+A corporate website created to practice content structure and web interface development.
+
+---
+
+<p align="center">
+  Explore all my work in my <a href="https://github.com/IagodAvila?tab=repositories">repositories</a>.
+</p>
