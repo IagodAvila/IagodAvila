@@ -32,7 +32,6 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 </p>
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=IagodAvila)](https://github.com/stats-organization/github-stats-extended)
 
 ### Featured projects
 
