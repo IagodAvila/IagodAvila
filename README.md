@@ -32,8 +32,15 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 </p>
 
-
 ### Featured projects
+
+#### [FamilyCare](https://github.com/IagodAvila/family-care-app)
+
+A responsive web app for organizing essential family health information, including blood type, allergies, medications, and an emergency mode. Built with React, Next.js, TypeScript, and Tailwind CSS. [Live demo](https://family-care-app.iagoddc.workers.dev)
+
+#### [WePet](https://github.com/IagodAvila/WePet)
+
+A digital health and vaccination card for pets, designed for quick access to important information. Built with React, Next.js, TypeScript, and Tailwind CSS. [Live demo](https://we-pet.vercel.app)
 
 #### [Portfolio](https://github.com/IagodAvila/Portfolio)
 
