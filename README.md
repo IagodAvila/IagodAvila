@@ -34,6 +34,10 @@
 
 ### Featured projects
 
+#### [Vieste Concetto](https://github.com/IagodAvila/vieste-concetto)
+
+A real-world redesign of the digital experience and e-commerce platform for a Brazilian contemporary fashion brand. The project features responsive navigation, product search, favorites, a shopping bag, and an editorial interface built with Next.js, React, TypeScript, and Tailwind CSS. [Live demo](https://vieste-concetto.vercel.app)
+
 #### [FamilyCare](https://github.com/IagodAvila/family-care-app)
 
 A responsive web app for organizing essential family health information, including blood type, allergies, medications, and an emergency mode. Built with React, Next.js, TypeScript, and Tailwind CSS. [Live demo](https://family-care-app.iagoddc.workers.dev)
